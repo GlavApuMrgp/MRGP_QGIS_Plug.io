@@ -2,10 +2,10 @@
 <plugins>
     <pyqgis_plugin name="mrgp_panels" version="0.0.3">
         <description>mrgp_panels</description>
-        <homepage>https://github.com/GlavApuMrgp/</homepage>
+        <homepage>https://github.com/GlavApuMrgp.io/</homepage>
         <qgis_minimum_version>3.0</qgis_minimum_version>
         <file_name>mrgp_panels.zip</file_name>
         <author_name>Dolan</author_name>
-	<download_url>https://glavapumrgp.github.io/QGIS_Plugins.io/mrgp_panels.zip</download_url>	  
+	<download_url>https://github.com/GlavApuMrgp/MRGP_QGIS_Plug.io/raw/main/mrgp_panels.zip</download_url>	
     </pyqgis_plugin>
 </plugins>
